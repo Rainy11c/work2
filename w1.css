@@ -1,0 +1,219 @@
+.tu1 {
+    height: 450px;
+    width: 350px;
+    margin: auto;
+    position: absolute;
+    z-index: 10;
+    left: 550px;
+    top: 50px;
+}
+
+.bg {
+    position: absolute;
+    z-index: 0;
+    left: 35%;
+
+}
+
+.ju1 {
+    position: absolute;
+    font-family: '华文行楷';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 30px;
+    z-index: 20;
+    width: 230px;
+    height: 100px;
+    top: 520px;
+    left: 630px;
+    color: rgb(204, 84, 132);
+
+}
+
+
+.bg2 {
+    left: 35%;
+    position: absolute;
+    top: 800px;
+    z-index: 0;
+}
+
+.bg3 {
+    left: 35%;
+    position: absolute;
+    top: 1600px;
+    z-index: 0;
+}
+
+.bg4 {
+    left: 35%;
+    position: absolute;
+    top: 2400px;
+    z-index: 0;
+}
+
+.name1 {
+    position: absolute;
+    font-family: '华文行楷';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 40px;
+    z-index: 20;
+    top: 800px;
+    left: 700px;
+    width: 200px;
+    height: 100px;
+}
+
+.name2 {
+    position: absolute;
+    font-family: '华文行楷';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 40px;
+    z-index: 20;
+    top: 1600px;
+    left: 700px;
+    width: 200px;
+    height: 100px;
+}
+
+.tu2 {
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    position: absolute;
+    top: 900px;
+    left: 530px;
+    z-index: 10;
+
+}
+
+.tu3 {
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    position: absolute;
+    top: 1700px;
+    left: 530px;
+    z-index: 10;
+
+}
+
+.dizhi {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: absolute;
+    top: 2700px;
+    left: 550px;
+    z-index: 10;
+
+}
+
+.tar {
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    z-index: 20;
+    top: 2400px;
+    left: 650px;
+}
+
+.content {
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 20px;
+    z-index: 20;
+    width: 300px;
+    height: 50px;
+    top: 2450px;
+    left: 550px;
+}
+
+.end1 {
+    position: absolute;
+    font-family: '华文行楷';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 30px;
+    z-index: 20;
+    width: 300px;
+    height: 50px;
+    top: 2550px;
+    left: 600px;
+    color: rgb(186, 81, 123);
+
+}
+
+.time1 {
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 20px;
+    z-index: 20;
+    width: 300px;
+    height: 50px;
+    top: 2520px;
+    left: 550px;
+}
+
+.discrib1 {
+    position: absolute;
+    font-family: '华文行楷';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 30px;
+    z-index: 20;
+    color: rgb(186, 81, 123);
+    writing-mode: vertical-rl;
+    top: 1100px;
+    left: 850px;
+    width: 60px;
+    height: 300px;
+
+    text-align: center;
+}
+
+.discrib2 {
+    position: absolute;
+    font-family: '华文行楷';
+    font-style: italic;
+    font-weight: 200;
+    font-size: 30px;
+    z-index: 20;
+    color: rgb(186, 81, 123);
+    writing-mode: vertical-rl;
+    text-align: center;
+    width: 60px;
+    height: 300px;
+    top: 1900px;
+    left: 850px;
+}
+
+.QQ2 {
+    position: fixed;
+    width: 300px;
+    height: 500px;
+    top: 100px;
+    right: 100px;
+}
+
+.zuo1 {
+    position: fixed;
+    width: 400px;
+    height: 350px;
+    left: 100px;
+}
+
+.qq1 {
+    position: fixed;
+    width: 400px;
+    height: 300px;
+    top: 400px;
+    left: 100px;
+}
